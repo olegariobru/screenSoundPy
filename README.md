@@ -1,7 +1,7 @@
 # ScreenSound.Py
 
 
-## O projeto C# transformado em Python 🐍
+O projeto C# transformado em Python 🐍
 
 
-# ** PROJETO EM CONSTRUÇÂO **
+#  PROJETO EM CONSTRUÇÂO 
